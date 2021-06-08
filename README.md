@@ -1,2 +1,0 @@
-# loreto.tech
-my website
